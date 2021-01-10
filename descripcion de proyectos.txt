@@ -1,0 +1,33 @@
+ConsultAdmin:
+Es una app que realiza consultorias a través de un chat entre el cliente y la empresa.
+Se utiliza una base de datos en firebase para el envio y recepción de información.
+
+Calculadora Android: 
+Es un ejercicio que realiza la función básica de una calculadora.
+
+Juego Ahorcado: 
+Es el juego del ahorcado programad para Android.
+
+Manejo de activities:
+Es un ejercicio en el que se muestra la interacción y el manejo de las activities 
+en Andorid Studio, una parte muy escencial de un proyecto Android.
+
+My First Thread: 
+Es una simulación de un contador de tiempo mediante el uso de procesos asíncronos con la 
+clase AsyncTask, proporcionada por el API de Android.
+
+NSSWifi: 
+Realiza la medición de intensidad en señales wifi en el dispositivo, muestra la red 
+a la que esta conectada, realiza gráficas y guarda información en base de datos local.
+
+PCLH_19: 
+Se utiliza la herramienta multihilos de Android Studio usando las propiedades de Lopper y Handler.
+Para el desarrollo se utilizó el problema de multiprocesos Productores-Consumidores.
+
+ProyectoV2: 
+Es un sistema movil con CRUD que permite conectarse a una base de datos en un servidor web 
+en las que destaca el manejo de scripts PHP, conexiones con MySQL, procesos asíncronos 
+y utilización de JSON.
+
+Ejemplo SQLite:
+Es un ejemplo de como uilizar SQLite en un proyecto movil para una base de datos local.
