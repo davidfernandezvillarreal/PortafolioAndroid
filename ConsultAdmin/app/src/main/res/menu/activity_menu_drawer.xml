@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_administracion"
+            android:title="@string/menuAdministracion">
+
+            <menu>
+                <item
+                    android:id="@+id/generacionDeFilosofiaEmpresarial"
+                    android:title="@string/generacionDeFilosofiaEmpresarial"/>
+                <item
+                    android:id="@+id/planeacionDeActividades"
+                    android:title="@string/planeacionDeActividades" />
+                <item
+                    android:id="@+id/organizacion"
+                    android:title="@string/organizacion"/>
+                <item
+                    android:id="@+id/analisisDeSolicitudes"
+                    android:title="@string/analisisDeSolicitudesDeEmpleo"/>
+                <item
+                    android:id="@+id/capacitacionDelPersonal"
+                    android:title="@string/capacitacionDelPersonal"/>
+
+            </menu>
+        </item>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_mercadotecnia"
+            android:title="@string/menuMercadotecnia" >
+
+            <menu>
+                <item
+                    android:id="@+id/imagenCorporativa"
+                    android:title="@string/imagenCorporativa"/>
+                <item
+                    android:id="@+id/elaboracionDeEstrategias"
+                    android:title="@string/elaboracionDeEstrategias"/>
+                <item
+                    android:id="@+id/diseñoDeLogotipo"
+                    android:title="@string/diseñoDeLogotipo"/>
+                <item
+                    android:id="@+id/diseñoDeMaterialPublicitario"
+                    android:title="@string/diseñoDeMaterialPublicitario"/>
+                <item
+                    android:id="@+id/diseñoDePublicidadEnRedesSociales"
+                    android:title="@string/diseñoDePublicidadEnRedesSociales"/>
+                <item
+                    android:id="@+id/analisisDeCompetencia"
+                    android:title="@string/analisisDeCompetencia"/>
+                <item
+                    android:id="@+id/estudioDeTendencias"
+                    android:title="@string/estudioDeTendencias"/>
+            </menu>
+        </item>
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/menu_contabilidad"
+            android:title="@string/menuContabilidad" >
+
+            <menu>
+                <item
+                    android:id="@+id/altasYORegistroAnteElSAT"
+                    android:title="@string/altasYORegistrosAnteElSAT"/>
+                <item
+                    android:id="@+id/asesoriasEnTramitesDeApertura"
+                    android:title="@string/asesoriasEnTramiteDeApertura"/>
+                <item
+                    android:id="@+id/diagnosticoDeSituacionFinanciera"
+                    android:title="@string/diagnosticoDeSituacionFinanciera"/>
+                <item
+                    android:id="@+id/declaracionDeImpuestos"
+                    android:title="@string/declaracionDeImpuestos"/>
+                <item
+                    android:id="@+id/declaracionDeSeguridadSocial"
+                    android:title="@string/declaracionDeSeguridadSocial"/>
+                <item
+                    android:id="@+id/calculoDeNomina"
+                    android:title="@string/calculoDeNomina"/>
+                <item
+                    android:id="@+id/consejeriaEnProblemasContables"
+                    android:title="@string/consejeriaEnProblemasContables"/>
+
+            </menu>
+
+        </item>
+    </group>
+</menu>

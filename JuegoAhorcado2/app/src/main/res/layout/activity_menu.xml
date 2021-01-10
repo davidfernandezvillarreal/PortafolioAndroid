@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnVerificarArchivo"
+        android:id="@+id/btnVerificarArchivo"
+        android:layout_gravity="center_horizontal"
+        android:onClick="verificarArchivo" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnLlenarArchivo"
+        android:id="@+id/btnLlenarArchivo"
+        android:layout_gravity="center_horizontal"
+        android:onClick="llenar" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnBorrarArchivo"
+        android:id="@+id/btnBorrarArchivo"
+        android:layout_gravity="center_horizontal"
+        android:singleLine="false"
+        android:onClick="borrar" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnJugar"
+        android:id="@+id/btnJugar"
+        android:layout_gravity="center_horizontal"
+        android:onClick="jugar" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSalir"
+        android:id="@+id/btnSalir"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtEtiqueta"
+        android:id="@+id/textView9" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cajaPalabras"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

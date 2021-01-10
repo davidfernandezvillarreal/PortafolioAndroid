@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">ConsultAdmin</string>
+    <string name="title_activity_menu">Consultoria</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuraciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="apelidos">Apellidos</string>
+    <string name="correoElectronico">Correo Electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="confirmarContraseña">Confirmar Contraseña</string>
+    <string name="nombreDelNegocio">Nombre del Negocio</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="tiempoDelNegocio">Tiempo del Negocio</string>
+    <string name="giroDelNegocio">Giro del Negocio</string>
+
+    <string name="btnLimpiarFormulario">Limpiar Formulario</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="btnIniciarSesion">Iniciar Sesión</string>
+    <string name="btnOlvido">¿Olvidaste tu contraseña?</string>
+
+    <string name="ConsultAdmin">ConsultAdmin</string>
+    <string name="Slogan">Asesorando tus ideas</string>
+    <string name="menuAdministracion">Administración</string>
+    <string name="menuMercadotecnia">Mercadotecnia</string>
+    <string name="menuContabilidad">Contabilidad</string>
+    <string name="tituloTerminos">Términos y Condiciones</string>
+    <string name="terminosYCondiciones">[terminos y condiciones]</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="usuarioAceptado">Registro correctamente del usuario</string>
+    <string name="usuarioRechazado">Llene todas las cajas del formulario</string>
+
+    <string name="procesoAdministrativo">Proceso Administrativo</string>
+
+    <string name="generacionDeFilosofiaEmpresarial">Generación de Filosofia Empresarial</string>
+    <string name="planeacionDeActividades">Planeación de Actividades</string>
+    <string name="organizacion">Organzación</string>
+    <string name="descripcionDeFunciones">Descripción de funciones por departamento</string>
+    <string name="elaboracionDePerfilesDePuesto">Elaboración de Perfiles de puesto</string>
+    <string name="analisisDeSolicitudesDeEmpleo">Análisis de solicitudes de empleo</string>
+    <string name="capacitacionDelPersonal">Capacitación del Personal</string>
+    <string name="trabajoEnEquipo">Trabajo en equipo</string>
+    <string name="servicioAlCliente">Servicio al Cliente</string>
+    <string name="ventas">Ventas</string>
+    <string name="cincoSs">Cinco Ss</string>
+    <string name="desarrolloActitudinal">Desarrollo Actitudinal</string>
+    <string name="procesos">Procesos</string>
+
+    <string name="diseñoDePublicidadEnRedesSociales">Diseño de publicidad en redes sociales</string>
+    <string name="elaboracionDeEstrategias">Elaboración de Estrategias</string>
+    <string name="imagenCorporativa">Imagen Corporativa</string>
+    <string name="diseñoDeLogotipo">Diseño de Logotipo y/o marca</string>
+    <string name="diseñoDeMaterialPublicitario">Diseño de Material Publicitario</string>
+    <string name="analisisDeCompetencia">Analisis de Competencia</string>
+    <string name="estudioDeTendencias">Estudio de Tendencias</string>
+
+    <string name="altasYORegistrosAnteElSAT">Altas y/o Registros ante el SAT</string>
+    <string name="asesoriasEnTramiteDeApertura">Asesorias en trámites de apertura</string>
+    <string name="diagnosticoDeSituacionFinanciera">Diagnóstico de situación financiera</string>
+    <string name="declaracionDeImpuestos">Declaración de Impuestos</string>
+    <string name="declaracionDeSeguridadSocial">Declaración de Seguridad Social</string>
+    <string name="calculoDeNomina">Cálculo de Nomina</string>
+    <string name="consejeriaEnProblemasContables">Consejería en problemas Contables</string>
+
+    <string name="escribirPregunta">Escribe tu pregunta...</string>
+
+    <string name="etiquetaProcesoAdministrativo">Dentro de este proceso, entran actividades básicas de la administración, dicho proceso lo podemos desglosar en dos partes: Planeación y Organización</string>
+    <string name="etiquetaPlaneacion">Dentro de este elemento, se llevara a cabo el diseño de la filosofía corporativa, la cual comprende; misión, visión, valores y el organigrama de la organización.</string>
+    <string name="etiquetaOrganizacion">Es aquí donde se hace el diseño de algunas estrategias corporativas, las cuales serán de gran utilidad a nuestro cliente para hacer a su empresa más competitiva en el mercado.</string>
+    <string name="etiquetaCapacitacionDelPresonal">El objetivo es brindar al empresario herramientas para la capacitación del personal, teniendo como meta la competitividad de los empleados.</string>
+    <string name="etiquetaReclutamientoDelPresonal">En esta actividad se tiene como objetivo el brindar herramientas a la organización, para el momento de atraer candidatos para las vacantes.</string>
+    <string name="etiquetaPublicidad">Dentro de este punto se tiene como meta, proporcionar estrategias a la empresa para que pueda  incrementar el consumo de su  producto o servicio.</string>
+    <string name="etiquetaDesarrolloDeFlletos">Por este medio se pretende dar publicidad a una empresa, producto o servicio.</string>
+    <string name="etiquetaDisenoDeMensaje">Con el cual se brindara comunicación por medio de símbolos o señales para transmitir mejor el mensaje de la empresa.</string>
+    <string name="etiquetaDisenoDePublicidadEnRS">Es una herramienta esencial para que la empresa este siempre actualizada y que sus clientes conozcan de lo que está realizando.</string>
+    <string name="etiquetaPromocion">Se busca atraer la atención del cliente para incrementar la venta o compra de un producto.</string>
+    <string name="etiquetaDisenoDeEstrategia">Proponer estrategias publicitarias al cliente, tales como: spots de radio y comerciales en canal local con el objetivo de atraer clientes en la organización.</string>
+    <string name="etiquetaImagenCorporativa">Ofrecer logo, slogan, psicología del color que sea atractiva para su negocio y para la vista de sus clientes.</string>
+    <string name="etiquetaAsesoriaEnInversiones">Por este medio se buscara apoyos financieros relacionados con el ahorro para el desarrollo de la empresa.</string>
+    <string name="etiquetaAsesoriaEnInventarios">Implementar una cultura de inventarios a la empresa para que tenga un mejor control en su listado de entradas y salidas de bienes.</string>
+
+    <string name="etiquetaAyuda">Ayuda</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="ayuda">SERVICIOS DE ADMINISTRACION
+
+        1.- Generación de la filosofía empresarial; Siendo esta la elaboración de visión, misión, valores objetivos y metas.
+        2.- Planeación de actividades para el logro eficiente de  objetivos.
+        3.- Organización. Delegación y limitación de actividades a ejecutar por los colaboradores.
+        3.1 Descripción de funciones por área o departamento.
+        3.2 Elaboración de perfiles de puesto.
+        4.- Análisis de solicitudes de empleo para la elección de candidatos adecuados al área o departamento.
+        5.- Capacitación de personal (Esta actividad es presencial, la aplicación solo permite la elección del curso del interesado y el tiempo en que se impartirá)
+        5.1-Trabajo en equipo
+        5.2 Servicio al cliente
+        5.3 Ventas
+        5.4 5’s
+        5.5 Desarrollo actitudinal
+        5.5 Procesos (Este curso es personalizado y depende de los cambios que se implementen en ella)
+        EL CLIENTE INTERESADO DEBERA ESTAR DISPUESTO A PROPORCIONAR LA INFORMACION QUE SE LE SOLICITE
+        SE BRINDARAN SERVICIOS PERSONALES SI EL CLIENTE ASI LO SOLICITA O LA MISMA PROBLEMÁTICA
+        SERVICIOS DE MERCADOTECNIA
+        1.- Imagen corporativa.
+        2.- Elaboración de estrategias promocionales de venta de acuerdo a objetivos y capacidad de producción.
+        3.- Diseño de logotipo y/o marca
+        4.- Diseño de material publicitario (Tarjetas de presentación, folletos, material POP, BTL)
+        5.- Diseño de publicidad en redes
+        6.- Análisis de competencia
+        7.- Estudios de tendencias
+        SERVICIOS DE CONTABILIDAD
+        1.- Altas y/o registro ante el SAT.
+        El cliente podrá realizar a través de la app el registro de su empresa, de acuerdo al tamaño y alcance que éste trate, ante la página oficial del SAT.
+        2.- Asesoría en trámites de apertura, cambios y bajas de la empresa.
+        El cliente podrá solicitar asesoría personal a través de la app para cualquier cambio en su situación financiera, ya sea fusión, escisión, bajas, etc.
+        3.- Diagnóstico y análisis de la situación financiera de la empresa mediante los EEFF que presente.
+        Mediante el envío de la documentación necesaria, el personal de ConsultAdmin podrá analizarla y ofrecerle al cliente una evaluación de la situación económica en la que su negocio se encuentra, ayudando así a una toma de decisiones futura.
+        4.- Orientación para presentar declaraciones de impuestos provisionales y anuales.
+        Mediante el envío de la documentación necesaria, personal de ConsultAdmin orientará y realizará los movimientos necesarios para realizar los pagos y cuotas que el contribuyente debe de realizar de acuerdo a los ingresos y gastos que éste haya realizado.
+        5.- Elaboración de declaraciones de seguridad social (IMSS) e INFONAVIT
+        El contribuyente podrá enviar a la app de ConsultAdmin la documentación necesaria para que así, nuestro personal elaboré y oriente para su elaboración las declaraciones que éste tenga que realizar en materia de seguridad social ante el SAT.
+        6.- Cálculo de nomina.
+        El contribuyente podrá enviar la información necesaria para el cálculo del sueldo neto que éste deberá pagar a los trabajadores que laboren en su negocio/empresa.
+        7.- Consejería en problemas contables, financieras
+        El cliente podrá solicitar asesoría personal que ConsultAdmin ofrece para la ayuda en problema de materia fiscal, económica y/o contable, tratando de solucionar las anomalías que sucedan en el tiempo.
+    </string>
+
+</resources>

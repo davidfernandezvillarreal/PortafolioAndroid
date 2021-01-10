@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Juego del Ahorcado</string>
+    <string name="txtUsuario">Usuario:</string>
+    <string name="txtContraseña">Contraseña:</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="txtView">Vidas:</string>
+    <string name="btnVerificarArchivo">Verificar Archivo</string>
+    <string name="btnLlenarArchivo">Llenar Archivo</string>
+    <string name="btnBorrarArchivo">Borrar Archivo</string>
+    <string name="btnJugar">Jugar</string>
+    <string name="btnSalir">Salir</string>
+    <string name="btnLlenar">Llenar</string>
+    <string name="txtEtiqueta">Ingrese las palabras SEPARADAS por un ESPACIO y presione el boton LLENAR cuando termine.</string>
+</resources>

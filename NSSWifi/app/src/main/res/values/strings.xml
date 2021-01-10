@@ -1,0 +1,36 @@
+<resources>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="app_name">Network Smart Signal</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_acerca_de">Acerca de</string>
+    <string name="txt_redes_moviles">Redes Móviles</string>
+    <string name="txt_redes_wifi">Redes Wifi</string>
+    <string name="title_activity_wifi">Wifi</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="contenido_acerca_de">Contenido de acerca de ©</string>
+    <string name="txt_cerrar">Cerrar</string>
+
+    <string name="ssid">SSID</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="intensidad">Intensidad</string>
+    <string name="frecuancia">Frecuencia</string>
+    <string name="ip">Dirección IP</string>
+    <string name="mac">MAC</string>
+    <string name="estado">Estado</string>
+    <string name="estadoC">Conectado</string>
+    <string name="estadoD">Desconectado</string>
+    <string name="estadoDisable">Deshabilitado</string>
+
+    <string name="iniciarPrueba">INICIR PRUEBA</string>
+    <string name="detenerPrueba">DETENER PRUEBA</string>
+    <string name="generarReporteHis">EXPORTAR</string>
+
+    <string name="tab1RM">Imformacion redes moviles</string>
+    <string name="tab2RM">HIstoricos redes moviles</string>
+    <string name="tab3RM">Pruebas</string>
+    <string name="tab4RM">Grafica de frecuencia</string>
+    <string name="btnIniciarPrueb">Iniciar prueba</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
