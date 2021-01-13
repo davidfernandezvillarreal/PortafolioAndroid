@@ -28,7 +28,7 @@ public class AnalizadorJSON {
         URL mUrl = null;
 
         try {
-            url = "http://itsjsistemaentradasalida.000webhostapp.com/scripts_android/" + script;
+            url = "http://itsjsistemaes.000webhostapp.com/scripts_android/" + script;
             //url = "http://192.168.1.9/Practicas/ProyectoFinal/scripts_android/" + script;
             mUrl = new URL(url);
             conexion = (HttpURLConnection) mUrl.openConnection();
@@ -95,7 +95,7 @@ public class AnalizadorJSON {
 
         String cadenaJSON = null;
         try {
-            url = "http://itsjsistemaentradasalida.000webhostapp.com/scripts_android/" + script;
+            url = "http://itsjsistemaes.000webhostapp.com/scripts_android/" + script;
             //url = "http://192.168.1.9/Practicas/ProyectoFinal/scripts_android/" + script;
             mUrl = new URL(url);
             conexion = (HttpURLConnection) mUrl.openConnection();
